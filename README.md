@@ -1,2 +1,2 @@
 # Calculator
-Консольный калькулятор для работы с римскими и арабскими цифрами
+Console calculator for working with Roman and Arabic numerals
